@@ -10,6 +10,3 @@ Please be aware that this was sourced from a tutorial video, it was not written 
 This video was instrumental in helping me to understand the layout of a website and how you can re-create ANY layout by using a 'box' model.
 I uploaded the practice exercises I did from this video as well (my html-css-exercises repository.) 
 
-The tutorial is online here:
-
-https://www.youtube.com/watch?v=G3e-cpL7ofc
